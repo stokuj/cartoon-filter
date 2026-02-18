@@ -1,6 +1,6 @@
-﻿# cartoon-filter
+﻿# Cartoon Filter
 
-`cartoon-filter` is an engineering project focused on building a cartoon-style image filter and comparing performance between C++ and x64 Assembly implementations inside one Windows solution.
+Engineering project focused on building a cartoon-style image filter and comparing performance between C++ and x64 Assembly implementations inside one Windows solution.
 
 The primary objective was educational and experimental: implement the same processing approach in C++ and ASM, integrate both into a C# desktop app, and use the project to study cross-language architecture, native interop, and optimization tradeoffs.
 
